@@ -46,8 +46,8 @@
             >{{ l.label }}</router-link>
           </nav>
           <div class="drawer-contact">
-            <p>📞 +257 XX XXX XXX</p>
-            <p>✉️ info@gcmbc-group.com</p>
+            <p>📞 +257 71 395 044</p>
+            <p>✉️ gcmbcgroupe@gmail.com</p>
           </div>
         </div>
       </div>

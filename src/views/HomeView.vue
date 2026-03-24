@@ -35,7 +35,7 @@
         <div class="about-img-main"></div>
         <div class="about-img-accent"></div>
         <div class="about-badge">
-          <div class="badge-num">15+</div>
+          <div class="badge-num">3+</div>
           <div class="badge-txt">Années<br/>d'expertise</div>
         </div>
       </div>

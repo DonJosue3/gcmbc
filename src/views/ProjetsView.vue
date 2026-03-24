@@ -10,7 +10,7 @@
       <!-- Filters -->
       <div class="filters-wrap reveal">
         <div class="section-tag">Portfolio</div>
-        <h2 class="section-title">250+ Projets Réalisés</h2>
+        <h2 class="section-title">50+ Projets Réalisés</h2>
         <div class="filter-btns">
           <button
             v-for="f in filters"
@@ -62,7 +62,7 @@
 
     <CtaBand
       title="Votre projet sera notre prochaine réalisation"
-      subtitle="Rejoignez nos 250+ clients satisfaits à travers tout le Burundi."
+      subtitle="Rejoignez nos 50+ clients satisfaits à travers tout le Burundi."
     />
   </main>
 </template>

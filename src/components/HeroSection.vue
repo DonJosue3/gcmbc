@@ -4,7 +4,7 @@
     <div class="hero-shape"></div>
 
     <div class="hero-content">
-      <div class="hero-badge">✦ Burundi · BTP depuis 2009</div>
+      <div class="hero-badge">✦ Burundi · BTP depuis 2023</div>
 
       <h1 class="hero-title">
         Bâtir avec<br/>

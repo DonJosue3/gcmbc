@@ -6,11 +6,11 @@
       <div class="form-row">
         <div class="form-group">
           <label>Prénom &amp; Nom *</label>
-          <input v-model="form.name" type="text" placeholder="Jean Dupont" />
+          <input v-model="form.name" type="text" placeholder="Votre nom" />
         </div>
         <div class="form-group">
           <label>Téléphone</label>
-          <input v-model="form.phone" type="tel" placeholder="+257 XX XXX XXX" />
+          <input v-model="form.phone" type="tel" placeholder="+257 71395044" />
         </div>
       </div>
 

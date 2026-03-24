@@ -10,18 +10,18 @@
     <section class="histoire">
       <div class="hist-text reveal">
         <div class="section-tag">Notre histoire</div>
-        <h2 class="section-title">Bâtisseurs depuis<br/>2009 au Burundi</h2>
+        <h2 class="section-title">Bâtisseurs depuis<br/>2023 au Burundi</h2>
         <p class="section-desc">
-          Fondé à Bujumbura en 2009 par des ingénieurs et architectes passionnés, GCMBC Group a débuté avec une vision claire : offrir au Burundi des constructions de qualité internationale, à des prix accessibles.
+          Fondé à Bujumbura en 2023 par des ingénieurs et architectes passionnés, GCMBC Group a débuté avec une vision claire : offrir au Burundi des constructions de qualité internationale, à des prix accessibles.
         </p>
         <p class="section-desc" style="margin-top:1rem">
-          Aujourd'hui, avec plus de 250 projets réalisés et une équipe de 40 experts, nous sommes devenus le partenaire de confiance des particuliers, des entreprises et des institutions publiques pour tous leurs projets de construction.
+          Aujourd'hui, avec plus de 50 projets réalisés et une équipe d'experts, nous sommes devenus le partenaire de confiance des particuliers, des entreprises et des institutions pour tous leurs projets de construction.
         </p>
       </div>
       <div class="hist-visual reveal d1">
         <div class="hist-img"></div>
         <div class="hist-badge">
-          <div class="hb-num">2009</div>
+          <div class="hb-num">2023</div>
           <div class="hb-txt">Année de fondation</div>
         </div>
       </div>
