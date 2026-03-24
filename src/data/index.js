@@ -285,10 +285,10 @@ export const contactInfos = [
 
 // ── ÉQUIPE ────────────────────────────────────────────────
 export const equipe = [
-  { name: 'Ir. Bukuru Emmanuel', role: 'Directeur Général & Ingénieur Civil', initials: 'BE', img: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&q=80' },
-  { name: 'Arch. Nkurunziza Marie', role: 'Directrice Architecte', initials: 'NM', img: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80' },
-  { name: 'Ir. Havyarimana Luc', role: 'Chef de Projet Génie Civil', initials: 'HL', img: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80' },
-  { name: 'Mme. Cishahayo Grace', role: 'Responsable Commerciale', initials: 'CG', img: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80' },
+  { name: 'Ir. Bukuru Emmanuel', role: 'Directeur Général & Ingénieur Civil', initials: 'BE' },
+  { name: 'Arch. Nkurunziza Marie', role: 'Directrice Architecte', initials: 'NM'},
+  { name: 'Ir. Havyarimana Luc', role: 'Chef de Projet Génie Civil', initials: 'HL' },
+  { name: 'Mme. Cishahayo Grace', role: 'Responsable Commerciale', initials: 'CG' },
 ]
 
 // ── VALEURS ───────────────────────────────────────────────
