@@ -63,7 +63,7 @@
         <div class="map-pin">📍</div>
         <div class="map-info">
           <strong>GCMBC Group – Siège Social</strong>
-          <p>Boulevard du Peuple Murundi, Bujumbura, Burundi</p>
+          <p>EN démenagement</p>
           <a href="https://maps.google.com" target="_blank" class="btn-primary" style="margin-top:1rem;display:inline-block">
             Ouvrir dans Google Maps
           </a>
