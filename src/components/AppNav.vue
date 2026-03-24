@@ -66,8 +66,10 @@ const route       = useRoute()
 
 const isHero = computed(() => route.path === '/')
 
-const onScroll = () => { scrolled.value = window.scrollY > 50 }
-
+const onScroll = () => {
+  if (mobileOpen.value) return
+  scrolled.value = window.scrollY > 50
+}
 onMounted(() => window.addEventListener('scroll', onScroll))
 onUnmounted(() => window.removeEventListener('scroll', onScroll))
 </script>
