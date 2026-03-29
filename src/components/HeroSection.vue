@@ -13,7 +13,7 @@
       </h1>
 
       <p class="hero-desc">
-        GCMBC Group — architecture, génie civil, plans de maisons et vente de matériaux de construction. Votre partenaire du projet à la livraison clé en main.
+        GCMBC Group — Réalisations de travaux publics et de génie civil, Etudes techniques et gestion de projets de construction, Fourniture et commercialisation des matériaux, Multiservices liéés au batiment et au commerce
       </p>
 
       <div class="hero-actions">
@@ -22,10 +22,7 @@
       </div>
     </div>
 
-    <div class="hero-scroll">
-      <div class="scroll-line"></div>
-      Défiler
-    </div>
+    
   </section>
 </template>
 
