@@ -8,7 +8,7 @@
       </div>
       <div class="logo-text">
         <span class="logo-name">GCMBC GROUP</span>
-        <span class="logo-sub">Architecture &amp; Génie Civil</span>
+        <span class="logo-sub">Génie Civil &amp;Autres services </span>
       </div>
     </router-link>
 
