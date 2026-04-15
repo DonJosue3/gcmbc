@@ -137,7 +137,7 @@ export const services = [
       'Maintenance et réparation des installations hydrauliques',
     ],
     icon: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>`,
-    img: 'https://images.unsplash.com/photo-1599707254554-027aeb4deacd?w=900&q=80',
+    img: 'https://images.unsplash.com/photo-1542013936693-884638332954?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTF8fHBsb21iZXJpZSUyMGRvbWVzdGlxdWV8ZW58MHx8MHx8fDA%3D',
     color: '#FFF9D6',
   },
   {
@@ -147,16 +147,16 @@ export const services = [
     short: 'Alimentation électrique',
     desc: "Installation et maintenance de systèmes électriques pour assurer une alimentation fiable et sécurisée dans votre bâtiment.",
     features: [
-      'Études et conception des installations électriques',
-'Installation électrique (bâtiments résidentiels, commerciaux et industriels',
-'Câblage et raccordement des équipements',
-'Installation de systèmes d’éclairage (intérieur et extérieur)',
-'Installation de panneaux solaires et systèmes photovoltaïques',
-'Maintenance et dépannage électrique',
-'Mise aux normes et sécurisation des installations'
+    'Études et conception des installations électriques',
+    'Installation électrique (bâtiments résidentiels, commerciaux et industriels',
+    'Câblage et raccordement des équipements',
+    'Installation de systèmes d’éclairage (intérieur et extérieur)',
+    'Installation de panneaux solaires et systèmes photovoltaïques',
+    'Maintenance et dépannage électrique',
+    'Mise aux normes et sécurisation des installations'
     ],
     icon: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>`,
-    img: 'https://images.unsplash.com/photo-1599707254554-027aeb4deacd?w=900&q=80',
+    img: 'https://images.unsplash.com/photo-1758101755915-462eddc23f57?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTMyfHwlQzMlQTlsZWN0cmljaWVufGVufDB8fDB8fHww',
     color: '#FFF9D6',
   },{
     id: 8,
@@ -174,7 +174,7 @@ export const services = [
     'Maintenance et entretien des équipements',
     ],
     icon: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>`,
-    img: 'https://images.unsplash.com/photo-1599707254554-027aeb4deacd?w=900&q=80',
+    img: 'https://images.unsplash.com/photo-1730967844913-29eb5cae5f34?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTh8fGhvbWUlMjBlcXVpcG1lbnR8ZW58MHx8MHx8fDA%3D',
     color: '#FFF9D6',
   },
   
@@ -344,10 +344,10 @@ export const contactInfos = [
 
 // ── ÉQUIPE ────────────────────────────────────────────────
 export const equipe = [
-  { name: 'Ir. Bukuru Emmanuel', role: 'Directeur Général & Ingénieur Civil', initials: 'BE' },
-  { name: 'Arch. Nkurunziza Marie', role: 'Directrice Architecte', initials: 'NM'},
-  { name: 'Ir. Havyarimana Luc', role: 'Chef de Projet Génie Civil', initials: 'HL' },
-  { name: 'Mme. Cishahayo Grace', role: 'Responsable Commerciale', initials: 'CG' },
+  { name: 'Ing. IGIRANEZA Del Guy Darcy', role: 'Directeur Général ', initials: 'BE' },
+  { name: 'Ing IGABUKWIGOMBA Fiston', role: 'Directrice Architecte', initials: 'NM'},
+  { name: 'Ing NIHORIMBERE Enock', role: 'Chef de Projet Génie Civil', initials: 'HL' },
+  { name: 'Ing NDAYIKENGURUKIYE Eric', role: 'Responsable Commerciale', initials: 'CG' },
 ]
 
 // ── VALEURS ───────────────────────────────────────────────
