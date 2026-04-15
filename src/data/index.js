@@ -121,6 +121,172 @@ export const services = [
     img: 'https://images.unsplash.com/photo-1599707254554-027aeb4deacd?w=900&q=80',
     color: '#FFF9D6',
   },
+  {
+    id: 7,
+    slug: 'Plomberie',
+    title: 'Alimentation en eau',
+    short: 'Plomberie',
+    desc: "Installation et maintenance de systèmes de plomberie pour garantir une alimentation en eau fiable et efficace dans votre bâtiment.",
+    features: [
+      'Études et conception des systèmes d’alimentation en eau',
+      'Installation de réseaux de plomberie (résidentiels et industriels)',
+      'Forage et aménagement de puits',
+      'Installation de pompes et systèmes de surpression',
+      'Mise en place de châteaux d’eau et réservoirs',
+      'Traitement et filtration de l’eau',
+      'Maintenance et réparation des installations hydrauliques',
+    ],
+    icon: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>`,
+    img: 'https://images.unsplash.com/photo-1599707254554-027aeb4deacd?w=900&q=80',
+    color: '#FFF9D6',
+  },
+  {
+    id: 8,
+    slug: 'Electricite',
+    title: 'Electricité',
+    short: 'Alimentation électrique',
+    desc: "Installation et maintenance de systèmes électriques pour assurer une alimentation fiable et sécurisée dans votre bâtiment.",
+    features: [
+      'Études et conception des installations électriques',
+'Installation électrique (bâtiments résidentiels, commerciaux et industriels',
+'Câblage et raccordement des équipements',
+'Installation de systèmes d’éclairage (intérieur et extérieur)',
+'Installation de panneaux solaires et systèmes photovoltaïques',
+'Maintenance et dépannage électrique',
+'Mise aux normes et sécurisation des installations'
+    ],
+    icon: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>`,
+    img: 'https://images.unsplash.com/photo-1599707254554-027aeb4deacd?w=900&q=80',
+    color: '#FFF9D6',
+  },{
+    id: 8,
+    slug: 'Equipement',
+    title: 'Equipement',
+    short: 'Equipement de la maison',
+    desc: "L'équipement qui fait la difference entre une maison ordinaire et une maison exceptionnelle. Nous installons des équipements de qualité pour améliorer votre confort et votre qualité de vie.",
+    features: [
+    'Fourniture et installation d’équipements domestiques',
+    'Installation de systèmes de sécurité (caméras, alarmes)',
+    'Installation de climatiseurs et systèmes de ventilation',
+    'Aménagement intérieur (cuisine, salle de bain, placards)',
+    'Installation d’appareils électroménagers',
+    'Domotique (maison intelligente)',
+    'Maintenance et entretien des équipements',
+    ],
+    icon: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>`,
+    img: 'https://images.unsplash.com/photo-1599707254554-027aeb4deacd?w=900&q=80',
+    color: '#FFF9D6',
+  },
+  
+]
+
+// ── PLANS ─────────────────────────────────────────────────
+export const plans = [
+  {
+    id: 1,
+    name: 'Villa Moderne M120',
+    type: 'Villa Résidentielle',
+    badge: 'Populaire',
+    surface: '120 m²',
+    chambres: 3,
+    salles: 2,
+    niveaux: 'Plain-pied',
+    style: 'Moderne',
+    prix: '250 000 Fbu',
+    img: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=700&q=80',
+  },
+  {
+    id: 2,
+    name: 'Duplex Elite D180',
+    type: 'Duplex',
+    badge: 'Nouveau',
+    surface: '180 m²',
+    chambres: 4,
+    salles: 3,
+    niveaux: 'R+1',
+    style: 'Contemporain',
+    prix: '380 000 Fbu',
+    img: 'https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=700&q=80',
+  },
+  {
+    id: 3,
+    name: 'Maison Familiale F90',
+    type: 'Maison Standard',
+    badge: 'Économique',
+    surface: '90 m²',
+    chambres: 3,
+    salles: 1,
+    niveaux: 'Plain-pied',
+    style: 'Classique',
+    prix: '150 000 Fbu',
+    img: 'https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=700&q=80',
+  },
+  {
+    id: 4,
+    name: 'Villa Prestige P250',
+    type: 'Villa Haut Standing',
+    badge: 'Premium',
+=======
+      '* Études et conception des installations électriques
++      'Études et conception des installations électriques',
+
+--- /c:/Users/ishak/Documents/gcmbc-group/src/data/index.js
++++ /c:/Users/ishak/Documents/gcmbc-group/src/data/index.js
+@@ -149,1 +149,1 @@
+-      '* Études et conception des installations électriques
++      'Études et conception des installations électriques',
+
+--- /c:/Users/ishak/Documents/gcmbc-group/src/data/index.js
++++ /c:/Users/ishak/Documents/gcmbc-group/src/data/index.js
+@@ -150,1 +150,1 @@
+-'Installation électrique (bâtiments résidentiels, commerciaux et industriels)
++'Installation électrique (bâtiments résidentiels, commerciaux et industriels',
+
+--- /c:/Users/ishak/Documents/gcmbc-group/src/data/index.js
++++ /c:/Users/ishak/Documents/gcmbc-group/src/data/index.js
+@@ -151,1 +151,1 @@
+-'Câblage et raccordement des équipements
++'Câblage et raccordement des équipements',
+
+--- /c:/Users/ishak/Documents/gcmbc-group/src/data/index.js
++++ /c:/Users/ishak/Documents/gcmbc-group/src/data/index.js
+@@ -152,1 +152,1 @@
+-'Installation de systèmes d’éclairage (intérieur et extérieur)
++'Installation de systèmes d’éclairage (intérieur et extérieur)',
+
+--- /c:/Users/ishak/Documents/gcmbc-group/src/data/index.js
++++ /c:/Users/ishak/Documents/gcmbc-group/src/data/index.js
+@@ -153,1 +１５３,
+-'Installation de panneaux solaires et systèmes photovoltaïques
++'Installation de panneaux solaires et systèmes photovoltaïques',
+
+--- /c:/Users/ishak/Documents/gcmbc-group/src/data/index.js
++++ /c:/Users/ishak/Documents/gcmbc-group/src/data/index.js
+@@ -１５４,１ +１５４,
+-'Maintenance et dépannage électrique
++'Maintenance et dépannage électrique',
+
+--- /c:/Users/ishak/Documents/gcmbc-group/src/data/index.js
++++ /c:/Users/ishak/Documents/gcmbc-group/src/data/index.js
+@@ -１５５,１ +１５５,
+-'Mise aux normes et sécurisation des installations
++'Mise aux normes et sécurisation des installations'
+
+--- /c:/Users/ishak/Documents/gcmbc-group/src/data/index.js
++++ /c:/Users/ishak/Documents/g cmb c -group/src/data/index.js
+      'Études et conception des installations électriques',
+'Installation électrique (bâtiments résidentiels, commerciaux et industriels',
+'Câblage et raccordement des équipements',
+'Installation de systèmes d’éclairage (intérieur et extérieur)',
+'Installation de panneaux solaires et systèmes photovoltaïques',
+'Maintenance et dépannage électrique',
+'Mise aux normes et sécurisation des installations'
+    ],
+    icon: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>`,
+    img: 'https://images.unsplash.com/photo-1599707254554-027aeb4deacd?w=900&q=80',
+    color: '#FFF9D6',
+  }
+  
 ]
 
 // ── PLANS ─────────────────────────────────────────────────
