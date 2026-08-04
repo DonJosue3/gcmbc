@@ -39,9 +39,7 @@ defineProps({
   font-size: 0.95rem;
   margin-top: 0.4rem;
 }
-.fegugfu{
-  width:0px;
-}
+
 .cta-btn {
   background: var(--blue);
   color: var(--white);
