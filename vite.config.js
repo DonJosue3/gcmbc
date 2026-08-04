@@ -11,5 +11,5 @@ export default defineConfig({
   },
   server: {host:true,
   allowedHosts:['.ngrok-free.app']},
-  base:'/gcmbc/',
+  base:'/',
 })
